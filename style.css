@@ -32,7 +32,7 @@ body {
   appearance: none;
 }
 .container {
-  perspective: 500px;
+  perspective: 600px;
   margin-bottom: 30px;
 }
 

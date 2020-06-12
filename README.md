@@ -1,6 +1,7 @@
 # movie_seats
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
+try it out at https://d1sc0.github.io/movie_seats/
 
 ## Project Specifications
 
